@@ -1,0 +1,3 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1096       1    1096      15196  cons1     197610 16:59:53 /usr/bin/ps
+     1093       1    1093      14732  cons0     197610 16:56:32 /usr/bin/ssh
