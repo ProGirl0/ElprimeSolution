@@ -33,7 +33,7 @@
                         No passado dia 21 de Março, realizamos uma visita guiada com os nossos estagiários do curso de Gestão de Empresas às instalações da Protteja Seguros, com o objectivo de conhecerem mais sobre o sector de seguros em angola. 
 
                         Foi um grande privilégio para a Elprime e para os nossos estagiários. 
-                        Agradecemos a toda equipa da PROTTEJA SEGUROS, S.A por demonstrarem empatia e total disponibilidade ao receber e a partilhar insights valiosos aos futuros líderes empresariais.
+                        Agradecemos a toda equipa da PROTTEJA SEGUROS, S.A por demonstrarem empatia e total disponibilidade ao receberem e ao partilharem insights valiosos aos futuros líderes empresariais.
                         </p>
 
                     </div>
@@ -60,7 +60,7 @@
                         <h3 class="text-xl font-bold text-[#004b8d] mb-3">ELPRIME SOLUTION, em exposição na feira Expo-Tech 
                         </h3>
                         <div class="h-0.5 w-16 bg-[#00c476]/50 mb-3"></div>
-                        <p class="text-gray-600 mb-4">Venha visitar no nosso espaço e conhecer nossos serviços de qualidade.</p>
+                        <p class="text-gray-600 mb-4">Venha visitar o nosso espaço e conhecer nossos serviços de qualidade.</p>
                     </div>
                 </div>
             </article>
@@ -77,9 +77,9 @@
                             <span class="px-2 py-1 bg-[#00c476]/10 text-[#00c476] rounded-full text-xs font-medium">Exposição</span>
                             <span class="text-gray-500 text-sm">03 Maio 2025</span>
                         </div>
-                        <h3 class="text-xl font-bold text-[#004b8d] mb-3">Elprime Solution na Feira de StarUps</h3>
+                        <h3 class="text-xl font-bold text-[#004b8d] mb-3">Elprime Solution na Feira de StartUps</h3>
                         <div class="h-0.5 w-16 bg-[#00c476]/50 mb-3"></div>
-                        <p class="text-gray-600 mb-4">Decorreu na ENAPP - Escola Nacional de Administração e P. Públicas a 2ª edição da Feira das StartUps, um evento organizado pela Morais Report na pessoa de Hélio Morais, junto de sua incrível equipa. A ELPRIME SOLUTION, também fez parte deste grande evento</p>
+                        <p class="text-gray-600 mb-4">Decorreu na ENAPP - Escola Nacional de Administração e Políticas Públicas a 2ª edição da Feira das StartUps, um evento organizado pela Morais Report na pessoa de Hélio Morais, junto de sua incrível equipa. A ELPRIME SOLUTION, também fez parte deste grande evento</p>
                     </div>
                     <a href="/blog/otimizando-processos-erp" 
                        class="mt-auto inline-flex items-center text-[#004b8d] hover:text-[#00c476] font-medium transition-colors">

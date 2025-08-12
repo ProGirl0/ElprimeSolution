@@ -35,7 +35,7 @@
                         <svg class="w-4 h-4 mr-2 text-[#00c476]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                         </svg>
-                        Administação de Empresas
+                        Administração de Empresas
                     </li>
                     <li class="flex items-center text-sm text-gray-600">
                         <svg class="w-4 h-4 mr-2 text-[#00c476]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -73,7 +73,7 @@
                 <div class="border-t border-gray-200 pt-4 mb-4"></div>
                 
                 <p class="text-gray-600 text-sm mb-4 leading-relaxed text-justify">
-                   Proporionamos ao estagiário a oportunidadede aplicar os conhecimentos adquiridos na escola.
+                   Proporcionamos ao estagiário a oportunidade de aplicar os conhecimentos adquiridos na escola.
                 </p>
                 
                 <ul class="space-y-2 mb-6">

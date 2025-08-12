@@ -35,12 +35,12 @@
             <div>
                 <h3 class="text-lg font-semibold mb-4 border-b border-white/20 pb-2">Links </h3>
                 <ul class="space-y-2">
-                    <li><a href="#" class="text-sm hover:text-[#00c476] transition-colors">Início</a></li>
-                    <li><a href="#" class="text-sm hover:text-[#00c476] transition-colors">Sobre </a></li>
-                    <li><a href="#" class="text-sm hover:text-[#00c476] transition-colors">Serviços</a></li>
-                    <li><a href="#" class="text-sm hover:text-[#00c476] transition-colors">Projectos</a></li>
-                    <li><a href="#" class="text-sm hover:text-[#00c476] transition-colors">Equipe</a></li>
-                    <li><a href="#" class="text-sm hover:text-[#00c476] transition-colors">Galeria</a></li>
+                    <li><a href="/" class="text-sm hover:text-[#00c476] transition-colors">Início</a></li>
+                    <li><a href="/#about" class="text-sm hover:text-[#00c476] transition-colors">Sobre </a></li>
+                    <li><a href="/#servicos" class="text-sm hover:text-[#00c476] transition-colors">Serviços</a></li>
+                    <li><a href="/#projects" class="text-sm hover:text-[#00c476] transition-colors">Projectos</a></li>
+                    <li><a href="/#team" class="text-sm hover:text-[#00c476] transition-colors">Equipa</a></li>
+                    <li><a href="/#gallery" class="text-sm hover:text-[#00c476] transition-colors">Galeria</a></li>
                     <!-- Coluna 3: Serviços          
                         <li><a href="#" class="text-sm hover:text-[#00c476] transition-colors">Blog</a></li>
                         <li><a href="#" class="text-sm hover:text-[#00c476] transition-colors">Contacto</a></li>

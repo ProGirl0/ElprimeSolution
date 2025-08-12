@@ -17,7 +17,7 @@
             <div class="mt-12">
                 <a href="#contato" 
                    class="cta-button mt-10 inline-flex items-center px-8 py-4 bg-gradient-to-r from-[#004b8d] to-[#00c476] text-white font-bold rounded-full hover:shadow-xl transition-all duration-500 transform hover:scale-105 group relative overflow-hidden">
-                    <span class="relative z-10">Djuma Jaquelina Amin da Elprime Solution, Mirantes Techonologies e MultiSchool </span>
+                    <span class="relative z-10">Comece seu projeto agora</span>
                     
                     <!-- Efeito de onda animado -->
                     <span class="absolute inset-0 flex items-center justify-center">

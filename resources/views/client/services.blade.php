@@ -1,4 +1,6 @@
-@extends('layouts.app')    
+@extends('layouts.app')
+
+
 @section('content')   
 @php
     $categorias = $servicos->groupBy('categoria.nome');

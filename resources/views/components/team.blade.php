@@ -72,7 +72,7 @@
                     
                     <div class="flex justify-center items-center mb-3">
                         <span class="bg-[#004b8d]/10 text-[#004b8d] text-xs px-2 py-1 rounded-full mr-2">
-                            Acessoria
+                            Assessoria
                         </span>
                         <span class="bg-[#00c476]/10 text-[#00c476] text-xs px-2 py-1 rounded-full">
                             Consultoria

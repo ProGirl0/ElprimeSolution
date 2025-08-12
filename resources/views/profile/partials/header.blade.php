@@ -40,7 +40,7 @@
             <!-- Menu Desktop -->
             <nav class="hidden md:flex gap-4 lg:gap-6 xl:gap-8 items-center">
                 <a href="/" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Início</a>
-                <a href="#about" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Sobre</a><!-- Menu Desktop - Substitua o item Serviços por este código -->
+                <a href="/#about" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Sobre</a><!-- Menu Desktop - Substitua o item Serviços por este código -->
                 <div class="relative group" x-data="{ open: false, subOpen: false }">
                     <button @click="open = !open" @mouseenter="open = true"  onclick="document.getElementById('servicos').scrollIntoView()" @mouseleave="open = false" 
                             class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base flex items-center gap-1">
@@ -135,14 +135,12 @@
                         <a href="#" class="block text-white hover:text-[#004b8d] py-1 sm:py-2 text-sm sm:text-base">Manutenção de Sites</a>
                     </div>
                 </div>
-                <a href="#products" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Produtos</a>
-                <a href="#team" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Equipa</a>
-                <a href="#gallery" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Galeria</a>
-                <a href="#blog" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Blog</a>
-                
-                <a href="#contato" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Contactos</a>
-                
-                @guest
+                <a href="/#products" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Produtos</a>
+                <a href="/#team" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Equipa</a>
+                <a href="/#blog" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Blog</a>
+                <a href="/#gallery" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Galeria</a>
+                <a href="/#contato" class="text-[#004b8d] hover:text-[#00c476] font-medium transition-colors duration-300 text-sm lg:text-base">Contactos</a>
+                                @guest
                 <button onclick="location.href='/login'" aria-label="Login" class="bg-gradient-to-r from-[#004b8d] to-[#00c476] hover:from-[#00c476] hover:to-[#004b8d] text-white px-4 py-1 md:px-5 md:py-1.5 lg:px-6 lg:py-2 rounded-full transition-all duration-500 flex items-center shadow-md hover:shadow-lg text-sm lg:text-base">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 md:h-5 md:w-5 mr-1 md:mr-2" viewBox="0 0 20 20" fill="currentColor">
                         <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd" />
@@ -169,6 +167,9 @@
                 <a href="#servicos" class="text-white hover:text-[#004b8d] py-1 sm:py-2 font-medium text-sm sm:text-base" @click="open = false">Serviços</a>
                 <a href="#projetos" class="text-white hover:text-[#004b8d] py-1 sm:py-2 font-medium text-sm sm:text-base" @click="open = false">Projetos</a>
                 <a href="#contato" class="text-white hover:text-[#004b8d] py-1 sm:py-2 font-medium text-sm sm:text-base" @click="open = false">Contato</a>
+                
+                
+                
                 @guest
                 <button onclick="location.href='/login'" aria-label="Login" class="bg-gradient-to-r from-[#004b8d] to-[#00c476] hover:from-[#00c476] hover:to-[#004b8d] text-white px-4 py-1 md:px-5 md:py-1.5 lg:px-6 lg:py-2 rounded-full transition-all duration-500 flex items-center shadow-md hover:shadow-lg text-sm lg:text-base">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 md:h-5 md:w-5 mr-1 md:mr-2" viewBox="0 0 20 20" fill="currentColor">
@@ -178,6 +179,7 @@
                 @else
                 <button onclick="location.href='/dashboard'" aria-label="Login" class="bg-gradient-to-r from-[#004b8d] to-[#00c476] hover:from-[#00c476] hover:to-[#004b8d] text-white px-4 py-1 md:px-5 md:py-1.5 lg:px-6 lg:py-2 rounded-full transition-all duration-500 flex items-center shadow-md hover:shadow-lg text-sm lg:text-base">{{ Auth::user()->name }} </button>
                 @endguest
+
             </div>
         </div>
     </header>

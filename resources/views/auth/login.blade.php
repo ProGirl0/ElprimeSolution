@@ -4,8 +4,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Elprime Solution | Login</title>
+       <link rel="stylesheet" href="/build/assets/app.css">
     <link rel="shortcut icon" href="/img/logomarca.png" type="image/x-icon">
-    @vite(['resources/css/app.css', 'resources/js/app.js'])
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <script src="/build/assets/app2.js"></script>
     <style>
         @keyframes gradientShift {
             0% { background-position: 0% 50%; }
