@@ -11,7 +11,7 @@
         @production
         <link href="{{ asset('build/assets/app.css') }}" rel="stylesheet">
         <script src="{{ asset('build/assets/app2.js') }}" defer></script>
-    @endproduction
+        @endproduction
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@alpinejs/intersect@3.x.x/dist/cdn.min.js" defer></script>
 <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
